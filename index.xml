@@ -6,16 +6,5 @@
     <description>Recent content on lockit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://hamnesjo.tech/lockit/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Background</title>
-      <link>https://hamnesjo.tech/lockit/background/</link>
-      <pubDate>Fri, 23 Oct 2020 13:01:25 +0200</pubDate>
-      
-      <guid>https://hamnesjo.tech/lockit/background/</guid>
-      <description>The Unlocking Method Who We are the Chalmers students John Luc and Johnny Hamnesjö taking a course in Mobile Computing.
-Where This is a prototype developed for the course CIU176 - Mobile Computing, design and implementation that&amp;rsquo;s given at the department of Computer Science and Engineering at Chalmers University of Technology and the University of Gothenburg.
-What The theme for this project is Authentication and Access, which means we are to design an innovative solution for the purpose of unlocking.</description>
-    </item>
-    
   </channel>
 </rss>
